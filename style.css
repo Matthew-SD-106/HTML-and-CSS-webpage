@@ -1,0 +1,58 @@
+h2{
+    color: rgb(21, 24, 27);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30;
+    text-decoration: underline;
+
+}
+
+h3{
+    color: navy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24;
+    font-weight: 300;
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+}
+ul{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+}
+li{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+}
+#introduction{
+    background-color: rgb(201, 201, 255)
+
+}
+
+
+.decoration{
+    background-color: rgb(200, 255, 191)
+
+}
+.text{
+    background-color: rgb(255, 234, 165)
+
+}
+
+.sources{
+    background-color: rgb(235, 156, 255)
+
+}
+
+#introduction h3{
+    color: maroon;
+}
+a{
+    color: indigo
+}
+a:hover{
+    color: tomato;
+}
